@@ -4,7 +4,7 @@ django-filter==1.1
 django==1.11.15
 djangorestframework-gis==0.13.0
 djangorestframework==3.7.7
-logstash-formatter==0.5.9
+logstash-formatter==0.5.17
 psycopg2-binary==2.7.5
 raven==5.2.0
 requests==2.19.1
